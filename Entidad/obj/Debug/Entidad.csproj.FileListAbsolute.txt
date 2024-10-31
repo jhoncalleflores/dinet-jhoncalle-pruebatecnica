@@ -1,0 +1,6 @@
+C:\Proyecto\NET Core\DINET\AppDinet\Entidad\bin\Debug\Entidad.dll
+C:\Proyecto\NET Core\DINET\AppDinet\Entidad\bin\Debug\Entidad.pdb
+C:\Proyecto\NET Core\DINET\AppDinet\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Proyecto\NET Core\DINET\AppDinet\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Proyecto\NET Core\DINET\AppDinet\Entidad\obj\Debug\Entidad.dll
+C:\Proyecto\NET Core\DINET\AppDinet\Entidad\obj\Debug\Entidad.pdb

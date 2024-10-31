@@ -1,0 +1,17 @@
+C:\Proyecto\NET Core\DINET\AppDinet\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.deps.json
+C:\Proyecto\NET Core\DINET\AppDinet\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Proyecto\NET Core\DINET\AppDinet\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Proyecto\NET Core\DINET\AppDinet\LogicaNegocio\bin\Debug\net8.0\Entidad.dll
+C:\Proyecto\NET Core\DINET\AppDinet\LogicaNegocio\bin\Debug\net8.0\Entidad.pdb
+C:\Proyecto\NET Core\DINET\AppDinet\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Proyecto\NET Core\DINET\AppDinet\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto\NET Core\DINET\AppDinet\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Proyecto\NET Core\DINET\AppDinet\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfo.cs
+C:\Proyecto\NET Core\DINET\AppDinet\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Proyecto\NET Core\DINET\AppDinet\LogicaNegocio\obj\Debug\net8.0\LogicaNe.53575492.Up2Date
+C:\Proyecto\NET Core\DINET\AppDinet\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.dll
+C:\Proyecto\NET Core\DINET\AppDinet\LogicaNegocio\obj\Debug\net8.0\refint\LogicaNegocio.dll
+C:\Proyecto\NET Core\DINET\AppDinet\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.pdb
+C:\Proyecto\NET Core\DINET\AppDinet\LogicaNegocio\obj\Debug\net8.0\ref\LogicaNegocio.dll
+C:\Proyecto\NET Core\DINET\AppDinet\LogicaNegocio\bin\Debug\net8.0\DAO.dll
+C:\Proyecto\NET Core\DINET\AppDinet\LogicaNegocio\bin\Debug\net8.0\DAO.pdb
